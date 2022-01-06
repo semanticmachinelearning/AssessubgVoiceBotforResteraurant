@@ -1,0 +1,105 @@
+{
+  "none": [
+    "Sorry, I don't understand"
+  ],
+  "greeting": [
+    "Hello, how can I help you?",
+    "Hi, what can I do for you today?"
+  ],
+  "order start": [
+    "Sure, what can i get for you?",
+    "Sure, what would you like?"
+  ],
+  "order next": [
+    "Anything else?"
+  ],
+  "delivery order complete": [
+    "Your food will be delivered to your shortly, is there anything else I can help you with?"
+  ],
+  "collection order complete": [
+    "Your food will be ready to collect shortly, is there anything else I can help you with?"
+  ],
+  "missing item": [
+    "what item is that?"
+  ],
+  "missing variant": [
+    "What kind of [item] would you like?"
+  ],
+  "missing size": [
+    "What size [item] would you like?"
+  ],
+  "invalid variant": [
+    "We don't have them [item]s"
+  ],
+  "invalid size": [
+    "The [item]s don't come in that size, we have [0]"
+  ],
+  "provide options": [
+    "We have [0]"
+  ],
+  "provide variants": [
+    "We have [0]"
+  ],
+  "provide sizes": [
+    "We have [0]"
+  ],
+  "ask delivery or collection": [
+    "Would you like delivery or will you be collecting your order?"
+  ],
+  "ask address": [
+    "Can I take an address?"
+  ],
+  "ask name": [
+    "Can I take a name please?"
+  ],
+  "ask number": [
+    "Can I take a mobile number?"
+  ],
+  "no address": [
+    "Sorry, I can't find that address."
+  ],
+  "no number": [
+    "Sorry, that is an invalid phone number."
+  ],
+  "no name": [
+    "Sorry, I didn't get that."
+  ],
+  "no address help": [
+    "Sorry, I can't find that address. Please provide your house number, street name and postcode."
+  ],
+  "no number help": [
+    "sorry, your phone number must be 11 digits long"
+  ],
+  "no name help": [
+  ],
+  "ask house number": [
+  ],
+  "ask street name": [
+  ],
+  "ask postcode": [
+  ],
+  "finish": [
+    "Good bye"
+  ],
+  "order price": [
+    "Your order comes to [0]"
+  ],
+  "item price": [
+    "That is [0]"
+  ],
+  "order contents": [
+    "You've got a [0]"
+  ],
+  "need item": [
+    "What item is that for?"
+  ],
+  "need variant": [
+    "What kind of [item] is that?"
+  ],
+  "need size": [
+    "What size [item] is that?"
+  ],
+  "open close time": [
+    "We [0] at [1] [2]"
+  ]
+}

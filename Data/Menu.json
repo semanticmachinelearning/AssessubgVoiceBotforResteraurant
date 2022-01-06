@@ -1,0 +1,535 @@
+{
+  "item": {
+    "pizza": {
+      "default size": "none",
+      "default variant": "none",
+      "size": [
+        "8-inch",
+        "10-inch",
+        "12-inch",
+        "16-inch"
+      ],
+      "variant": {
+        "margarita": {
+          "size": {
+            "8-inch": 4.00,
+            "10-inch": 5.00,
+            "12-inch": 6.50,
+            "16-inch": 9.50
+          },
+          "customisable": [
+            "cheese",
+            "tomato"
+          ],
+          "ingredients": [
+          ]
+        },
+        "chicken": {
+          "size": {
+            "8-inch": 4.50,
+            "10-inch": 6.00,
+            "12-inch": 7.50,
+            "16-inch": 11.00
+          },
+          "customisable": [
+            "cheese",
+            "tomato",
+            "chicken"
+          ],
+          "ingredients": [
+          ]
+        },
+        "pepperoni": {
+          "size": {
+            "8-inch": 4.50,
+            "10-inch": 6.00,
+            "12-inch": 7.50,
+            "16-inch": 11.00
+          },
+          "customisable": [
+            "cheese",
+            "tomato",
+            "pepperoni"
+          ],
+          "ingredients": [
+          ]
+        },
+        "ham and mushroom": {
+          "size": {
+            "8-inch": 5.00,
+            "10-inch": 6.50,
+            "12-inch": 8.00,
+            "16-inch": 12.50
+          },
+          "customisable": [
+            "cheese",
+            "tomato",
+            "ham",
+            "mushroom"
+          ],
+          "ingredients": [
+          ]
+        },
+        "hawaiian": {
+          "size": {
+            "8-inch": 5.00,
+            "10-inch": 6.50,
+            "12-inch": 8.00,
+            "16-inch": 12.50
+          },
+          "customisable": [
+            "cheese",
+            "tomato",
+            "ham",
+            "pineapple"
+          ],
+          "ingredients": [
+          ]
+        },
+        "spicy chicken": {
+          "size": {
+            "8-inch": 6.00,
+            "10-inch": 7.00,
+            "12-inch": 8.50,
+            "16-inch": 13.50
+          },
+          "customisable": [
+            "cheese",
+            "tomato",
+            "spicy chicken"
+          ],
+          "ingredients": [
+          ]
+        },
+        "vegetarian": {
+          "size": {
+            "8-inch": 6.50,
+            "10-inch": 7.50,
+            "12-inch": 9.00,
+            "16-inch": 14.00
+          },
+          "customisable": [
+            "cheese",
+            "tomato",
+            "red onion",
+            "olives",
+            "spinach",
+            "artichoke"
+          ],
+          "ingredients": [
+          ]
+        }
+      },
+      "extra": [
+        "cheese",
+        "pepperoni",
+        "bacon",
+        "sausage",
+        "ham",
+        "pineapple",
+        "mushroom"
+      ]
+    },
+    "garlic bread": {
+      "default size": "none",
+      "default variant": "plain",
+      "size": [
+        "8-inch",
+        "10-inch",
+        "12-inch"
+      ],
+      "variant": {
+        "plain": {
+          "size": {
+            "8-inch": 3.00,
+            "10-inch": 3.50,
+            "12-inch": 3.90
+          },
+          "customisable": [
+          ],
+          "ingredients": [
+          ]
+        },
+        "cheese": {
+          "size": {
+            "8-inch": 3.20,
+            "10-inch": 4.50,
+            "12-inch": 5.30
+          },
+          "customisable": [
+            "cheese"
+          ],
+          "ingredients": [
+          ]
+        }
+      },
+      "extra": [
+      ]
+    },
+    "kebab": {
+      "default size": "medium",
+      "default variant": "none",
+      "size": [
+        "medium",
+        "large"
+      ],
+      "variant": {
+        "lamb": {
+          "size": {
+            "medium": 5.00,
+            "large": 6.00
+          },
+          "customisable": [
+            "tomato",
+            "lettuce",
+            "onion",
+            "chilli"
+          ],
+          "ingredients": [
+          ]
+        },
+        "chicken": {
+          "size": {
+            "medium": 5.20,
+            "large": 6.00
+          },
+          "customisable": [
+            "tomato",
+            "lettuce",
+            "onion",
+            "chilli",
+            "chicken"
+          ],
+          "ingredients": [
+          ]
+        },
+        "doner": {
+          "size": {
+            "medium": 7.00,
+            "large": 8.00
+          },
+          "customisable": [
+            "tomato",
+            "lettuce",
+            "onion",
+            "chilli",
+            "peppers",
+            "lamb"
+          ],
+          "ingredients": [
+          ]
+        }
+      },
+      "extra": [
+      ]
+    },
+    "burger": {
+      "default size": "quarter pounder",
+      "default variant": "beef",
+      "size": [
+        "quarter pounder",
+        "half pounder"
+      ],
+      "variant": {
+        "beef": {
+          "size": {
+            "quarter pounder": 2.40,
+            "half pounder": 3.80
+          },
+          "customisable": [
+            "tomato",
+            "lettuce",
+            "onion",
+            "pickle"
+          ],
+          "ingredients": [
+          ]
+        },
+        "cheese": {
+          "size": {
+            "quarter pounder": 2.50,
+            "half pounder": 4.00
+          },
+          "customisable": [
+            "tomato",
+            "lettuce",
+            "onion",
+            "pickle"
+          ],
+          "ingredients": [
+          ]
+        },
+        "chicken": {
+          "size": {
+            "quarter pounder": 2.50,
+            "half pounder": 4.00
+          },
+          "customisable": [
+            "cheese",
+            "tomato",
+            "lettuce",
+            "onion",
+            "pickle"
+          ],
+          "ingredients": [
+          ]
+        },
+        "zinger": {
+          "size": {
+            "quarter pounder": 3.20,
+            "half pounder": 4.20
+          },
+          "customisable": [
+            "cheese",
+            "tomato",
+            "lettuce",
+            "onion",
+            "pickle"
+          ],
+          "ingredients": [
+          ]
+        }
+      },
+      "extra": [
+      ]
+    },
+    "wrap": {
+      "default size": "standard",
+      "default variant": "none",
+      "size": [
+        "standard"
+      ],
+      "variant": {
+        "doner": {
+          "size": {
+            "standard": 5.50
+          },
+          "customisable": [
+            "tomato",
+            "lettuce",
+            "onion"
+          ],
+          "ingredients": [
+          ]
+        },
+        "chicken": {
+          "size": {
+            "standard": 5.50
+          },
+          "customisable": [
+            "tomato",
+            "lettuce",
+            "onion"
+          ],
+          "ingredients": [
+          ]
+        }
+      },
+      "extra": [
+      ]
+    },
+    "chips": {
+      "default size": "medium",
+      "default variant": "default",
+      "size": [
+        "medium",
+        "large"
+      ],
+      "variant": {
+        "default": {
+          "size": {
+            "medium": 1.50,
+            "large": 1.50
+          },
+          "customisable": [
+          ],
+          "ingredients": [
+          ]
+        },
+        "cheese": {
+          "size": {
+            "medium": 2.50,
+            "large": 2.90
+          },
+          "customisable": [
+            "cheese"
+          ],
+          "ingredients": [
+          ]
+        },
+        "chicken nuggets": {
+          "size": {
+            "medium": 2.50,
+            "large": 2.90
+          },
+          "customisable": [
+            "chicken nuggets"
+          ],
+          "ingredients": [
+          ]
+        }
+      },
+      "extra": [
+      ]
+    },
+    "coleslaw": {
+      "default size": "standard",
+      "default variant": "default",
+      "size": [
+        "standard"
+      ],
+      "variant": {
+        "default": {
+          "size": {
+            "standard": 1.30
+          },
+          "customisable": [
+          ],
+          "ingredients": [
+          ]
+        }
+      },
+      "extra": [
+      ]
+    },
+    "gravy": {
+      "default size": "standard",
+      "default variant": "default",
+      "size": [
+        "standard"
+      ],
+      "variant": {
+        "default": {
+          "size": {
+            "standard": 1.00
+          },
+          "customisable": [
+          ],
+          "ingredients": [
+          ]
+        }
+      },
+      "extra": [
+      ]
+    },
+    "curry": {
+      "default size": "standard",
+      "default variant": "default",
+      "size": [
+        "standard"
+      ],
+      "variant": {
+        "default": {
+          "size": {
+            "standard": 1.00
+          },
+          "customisable": [
+          ],
+          "ingredients": [
+          ]
+        }
+      },
+      "extra": [
+      ]
+    },
+    "side salad": {
+      "default size": "standard",
+      "default variant": "default",
+      "size": [
+        "standard"
+      ],
+      "variant": {
+        "default": {
+          "size": {
+            "standard": 1.80
+          },
+          "customisable": [
+          ],
+          "ingredients": [
+          ]
+        }
+      },
+      "extra": [
+      ]
+    },
+    "onion rings": {
+      "default size": "standard",
+      "default variant": "default",
+      "size": [
+        "standard"
+      ],
+      "variant": {
+        "default": {
+          "size": {
+            "standard": 2.00
+          },
+          "customisable": [
+          ],
+          "ingredients": [
+          ]
+        }
+      },
+      "extra": [
+      ]
+    },
+    "mozzarella sticks": {
+      "default size": "standard",
+      "default variant": "default",
+      "size": [
+        "standard"
+      ],
+      "variant": {
+        "default": {
+          "size": {
+            "standard": 2.90
+          },
+          "customisable": [
+          ],
+          "ingredients": [
+          ]
+        }
+      },
+      "extra": [
+      ]
+    },
+    "nan bread": {
+      "default size": "standard",
+      "default variant": "default",
+      "size": [
+        "standard"
+      ],
+      "variant": {
+        "default": {
+          "size": {
+            "standard": 1.00
+          },
+          "customisable": [
+          ],
+          "ingredients": [
+          ]
+        },
+        "cheese": {
+          "size": {
+            "standard": 1.90
+          },
+          "customisable": [
+            "cheese"
+          ],
+          "ingredients": [
+          ]
+        },
+        "cheese garlic": {
+          "size": {
+            "standard": 2.00
+          },
+          "customisable": [
+          ],
+          "ingredients": [
+          ]
+        }
+      },
+      "extra": [
+      ]
+    }
+  }
+}

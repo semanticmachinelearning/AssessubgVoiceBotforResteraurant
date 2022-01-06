@@ -1,0 +1,59 @@
+add item
+add item +custom
+add item -custom
+add item abscustom
+add variant item
+add variant item +custom
+add variant item -custom
+add variant item abscustom
+add size item
+add size item +custom
+add size item -custom
+add size item abscustom
+add size variant item
+add size variant item +custom
+add size variant item -custom
+add size variant item abscustom
+add size variant
+add size variant +custom
+add size variant -custom
+add size variant abscustom
+remove item
+item
+variant
+size
+order start
+provide options
+none
+yes
+no
+neutral
+delivery
+collection
+item price
+order price
+order contents
+today open
+today close
+yesterday open
+yesterday close
+tomorrow open
+tomorrow close
+monday open
+monday close
+tuesday open
+tuesday close
+wednesday open
+wednesday close
+thursday open
+thursday close
+friday open
+friday close
+saturday open
+saturday close
+sunday open
+sunday close
+provide variants
+provide sizes
+greeting
+previous query

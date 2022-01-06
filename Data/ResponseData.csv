@@ -1,0 +1,35 @@
+intention,last intention,last action,last response,task,requirement 0,requirement 1,response,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,missing,variant,missing variant,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,missing,size,missing size,,,,,,,,,,,,,,,,,,,,,,,,add item,,,,order add
+,,,,,invalid,variant,invalid variant,,,,,,,,,,,,,,,,,,,,,,,,add item,,,,order add
+,,,,,invalid,size,invalid size,,,,,,,,,,,,,,,,,,,,,,,,add item +custom,,,,order add
+,,,,,need,variant,need variant,,,,,,,,,,,,,,,,,,,,,,,,add item +custom,,,,order add
+,,,,,need size,size,need size,,,,,,,,,,,,,,,,,,,,,,,,add item -custom,,,,order add
+provide options,,,,,,,provide options,,,,,,,,,,,,,,,,,,,,,,,,add item -custom,,,,order add
+provide options,,,missing variant,,,,,,,,,,,,,,,,,,,,,,,,,,,,add item abscustom,,,,order add
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,add item abscustom,,,,order add
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,add variant item,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,add variant item,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+greeting,,,,,,,greeting,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+order start,,,,,,,order start,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+add size variant item,,,,,,,order next,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+add variant item,,,,order add,missing,size,missing size,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+add size item,,,,order add,missing,variant,missing variant,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+add variant size,,,,,,,missing item,,,,,,,,,,,,,,,,,,,,,,,,,,,,
